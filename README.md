@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Aristotel Paskalov 👋
+## I'm a beginner *Frontend developer* from Ukraine
 
 <!--
 **paskalov-aris/paskalov-aris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
