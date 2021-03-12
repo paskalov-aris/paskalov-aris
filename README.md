@@ -10,6 +10,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### ✉️ Mail me: paskalov.aris@gmail.com
 ### 🌐 Telegram: @inext21
-#
-> A good book is like a conversation with a smart person. <br/>
-> ***Leo Tolstoy***
